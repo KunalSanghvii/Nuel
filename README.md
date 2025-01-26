@@ -3,6 +3,7 @@
 ## Project Objective  
 This project analyzes sales and customer behavior for RetailPulse, focusing on sales trends, customer segmentation, and category performance. It provides insights into high and low sales drivers, concluding with an interactive dashboard to explore the results.
 
+![image](https://github.com/user-attachments/assets/9540bfa6-55ce-42e2-b4f2-587c9acf3d78)
 ---
 
 ## Features and Techniques Used  
@@ -26,10 +27,5 @@ This project analyzes sales and customer behavior for RetailPulse, focusing on s
 
 ---
 
-## How to Use  
 
-1. **Clone the Repository**  
-   Clone this repo to your system.  
-   ```bash
-   git clone <repository-link>
-   cd retailpulse-project
+
