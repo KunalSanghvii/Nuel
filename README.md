@@ -14,7 +14,7 @@ This project analyzes sales and customer behavior for RetailPulse, focusing on s
    - Analyzed factors driving high and low sales.  
 
 2. **Data Integration**  
-   - Integrated sales data with holiday information ([Holidays Dataset on Kaggle](https://www.kaggle.com/datasets)) to assess external impacts on sales.  
+   - Integrated sales data with holiday information to assess external impacts on sales.  
 
 3. **Visualization**  
    - Created an interactive dashboard using **Tableau/Power BI/Streamlit** to display trends, segmentation, and actionable insights.  
