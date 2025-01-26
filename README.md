@@ -17,7 +17,7 @@ This project analyzes sales and customer behavior for RetailPulse, focusing on s
    - Integrated sales data with holiday information to assess external impacts on sales.  
 
 3. **Visualization**  
-   - Created an interactive dashboard using **Tableau/Power BI/Streamlit** to display trends, segmentation, and actionable insights.  
+   - Created an interactive dashboard using **Tableau** to display trends, segmentation, and actionable insights.  
 
 ---
 
